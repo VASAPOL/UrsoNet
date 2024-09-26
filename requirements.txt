@@ -1,10 +1,10 @@
 numpy
 pandas
-opencv-python
+opencv-python==4.5.5.64
 scipy
 matplotlib
 scikit-image
-opencv-python
 imgaug
-tensorflow>=1.9.0
-keras>=2.16
+tensorflow==1.9.0
+keras==2.1.6
+h5py<3.0.0
