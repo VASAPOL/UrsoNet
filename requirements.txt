@@ -4,7 +4,7 @@ opencv-python==4.5.5.64
 scipy
 matplotlib
 scikit-image
-imgaug
+imgaug==0.4.0
 protobuf<4.0.0
 tensorflow==1.9.0
 keras==2.1.6
